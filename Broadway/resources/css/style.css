@@ -15,14 +15,15 @@ h2 {
   color: gray;
 }
 
-h4 {
-  font-size: 18px;
-  color: white;
+h3 {
+  font-size: 23px;
+  font-weight: bold;
 }
 
 h4 {
-  font-size: 23px;
-  font-weight: bold;
+  font-size: 18px;
+  color: white;
+  text-decoration: underline;
 }
 
 h5 {
@@ -33,7 +34,6 @@ h5 {
 h6 {
   font-size: 11px;
   color: white;
-  background-color: dimgray;
 }
 
 .gray {
@@ -42,4 +42,8 @@ h6 {
 
 .white {
   color: white:
+}
+
+#footer {
+    background-color: dimgray;
 }

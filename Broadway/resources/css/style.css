@@ -43,6 +43,7 @@ h6 {
   color: white:
 }
 
-#footer {
+.footer {
     background-color: dimgray;
+    text-align: left;
 }
